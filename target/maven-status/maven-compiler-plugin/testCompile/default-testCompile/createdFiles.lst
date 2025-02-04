@@ -1,0 +1,8 @@
+br\ornelas\core\BaseTest.class
+br\ornelas\tests\PutTest.class
+TesteBasico.class
+br\ornelas\tests\GetTest.class
+br\ornelas\tests\DeleteTest.class
+br\ornelas\tests\UpdateTest.class
+TesteCascata.class
+br\ornelas\tests\PostTest.class
